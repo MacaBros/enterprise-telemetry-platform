@@ -1,0 +1,16 @@
+# .NET
+**/bin/
+**/obj/
+.vs/
+
+# SQLite runtime databases
+*.db
+*.db-shm
+*.db-wal
+
+# Node
+**/node_modules/
+telemetry-client/dist/
+
+# OS
+.DS_Store
